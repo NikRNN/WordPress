@@ -15,11 +15,11 @@
 
 =======
 
-![Интерфейс сайта](./src/screenshots/screenshot1.png)
-![Интерфейс сайта](./src/screenshots/screenshot2.png)
-![Интерфейс сайта](./src/screenshots/screenshot3.png)
-![Интерфейс сайта](./src/screenshots/screenshot4.png)
-![Интерфейс сайта](./src/screenshots/screenshot5.png)
+![Интерфейс сайта](./screenshots/screenshot1.png)
+![Интерфейс сайта](./screenshots/screenshot2.png)
+![Интерфейс сайта](./screenshots/screenshot3.png)
+![Интерфейс сайта](./screenshots/screenshot4.png)
+![Интерфейс сайта](./screenshots/screenshot5.png)
 
 **О проекте**
 
